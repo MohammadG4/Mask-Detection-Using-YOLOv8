@@ -15,7 +15,7 @@ This project implements a real-time mask detection system that identifies indivi
 To start using the project, clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/mask-detection-yolov8.git
+git clone https://github.com/MohammadG4/Mask-Detection-Using-YOLOv8
 cd mask-detection-yolov8
 ```
 
